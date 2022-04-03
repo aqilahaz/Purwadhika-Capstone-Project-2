@@ -28,9 +28,13 @@ Database Northwind berisi data sales dari perusahaan fiktif bernama "Northwind T
 # Pertanyaan Statistik
 
 **Pertanyaan 1: Apakah kategori makanan memiliki dampak signifikan pada Revenue?**
+
 H0: Terdapat Perbedaan Nilai Median Revenue pada Setiap Product Yang Ada
+
 Ha: Tidak Terdapat Perbedaan Nilai Median Revenue pada Setiap Product Yang Ada
 
 **Pertanyaan 2: Apakah kategori makanan memiliki dampak signifikan pada kuantitas pesanan?**
+
 H0: Kategori makanan memiliki memiliki dampak yang signifikan pada kuantitas yang dipesan
+
 Ha: Tidak ada perbedaan signifikan antara kuantitas pesanan berdasarkan Kategori

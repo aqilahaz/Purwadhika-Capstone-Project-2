@@ -5,7 +5,7 @@ Pada project untuk modul 2 ini, akan dianalisis database Northwind.
 Database Northwind berisi data sales dari perusahaan fiktif bernama "Northwind Traders" yang berperan sebagai perusahaan impor/ekspor makanan di seluruh dunia. Database ini merupakan ERP bisnis kecil dengan table customers, orders, inventory, purchasing, supplier, shipping, employee dan akuntansi pintu tunggal.
 
 
-## Content
+# Content
 
 
 1.   Database 
@@ -25,7 +25,8 @@ Database Northwind berisi data sales dari perusahaan fiktif bernama "Northwind T
 3. Data Visualization
 4. Statistics
 
-##Pertanyaan Statistik
+# Pertanyaan Statistik
+
 **Pertanyaan 1: Apakah kategori makanan memiliki dampak signifikan pada Revenue?**
 H0: Terdapat Perbedaan Nilai Median Revenue pada Setiap Product Yang Ada
 Ha: Tidak Terdapat Perbedaan Nilai Median Revenue pada Setiap Product Yang Ada
